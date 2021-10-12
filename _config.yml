@@ -1,9 +1,8 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
-paginate: 5
+title: Jaeyeon Blog
+url: https://kimjaeyeon518.github.io
+avatar: assets/my_photo.jpeg
+paginate: 6
 permalink: pretty
 cover_image: /bg.jpeg
 
@@ -31,15 +30,11 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Jaeyeon Kim
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/kimjaeyeon518
 google_site_verification: xxxxx
 lang: en
 
@@ -57,6 +52,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Jaeyeon Kim
+  url: https://github.com/kimjaeyeon518
+  email: rlawodus518@gmail.com
